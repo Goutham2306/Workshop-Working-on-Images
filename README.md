@@ -39,11 +39,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## OUTPUT:
-![image](https://github.com/Goutham2306/Workshop-Working-on-Images/assets/138971154/f0bbc649-120d-46cc-b8be-5d4b239d3c40)
+![image](https://github.com/Goutham2306/Workshop-Working-on-Images/assets/138971154/e5a5c02d-89af-42d0-a2c1-cffa39cbcf0a)
 
-![image](https://github.com/Goutham2306/Workshop-Working-on-Images/assets/138971154/b45708aa-ed5d-47d3-b4ad-3fd2c143e15d)
+![image](https://github.com/Goutham2306/Workshop-Working-on-Images/assets/138971154/54445d11-aaea-478f-9241-d524f403116e)
 
-![image](https://github.com/Goutham2306/Workshop-Working-on-Images/assets/138971154/0de2aa9f-3c9f-4f48-b039-4972513b0225)
+![image](https://github.com/Goutham2306/Workshop-Working-on-Images/assets/138971154/a06a7334-3e94-4191-8288-226388dbbb64)
 
 ## RESULT:
    Thus the image is converted to gray scale and HSV using python and displayed successfully.
